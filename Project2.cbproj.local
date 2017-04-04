@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.284,=C:\Users\Александр\Documents\RAD Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.791,=C:\Users\Александр\Documents\RAD Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.129,=C:\Users\Александр\Documents\RAD Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.837,=C:\Users\Александр\Documents\RAD Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>2017.04.03 22:20:56.249,=C:\Users\Александр\Documents\RAD Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>2017.04.03 22:20:56.262,=C:\Users\Александр\Documents\RAD Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2017.04.03 22:31:43.212,G:\SWSU\Ratings\MainUnit.h=C:\Users\Александр\Documents\RAD Studio\Projects\Unit2.h</Transaction>
+    <Transaction>2017.04.03 22:31:43.212,G:\SWSU\Ratings\MainUnit.dfm=C:\Users\Александр\Documents\RAD Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2017.04.03 22:31:43.212,G:\SWSU\Ratings\MainUnit.cpp=C:\Users\Александр\Documents\RAD Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2017.04.04 00:11:09.167,G:\SWSU\Ratings\Project2PCH1.h=C:\Users\Александр\Documents\RAD Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>2017.04.04 00:11:11.077,G:\SWSU\Ratings\Project2.cbproj=C:\Users\Александр\Documents\RAD Studio\Projects\Project2.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
